@@ -2,7 +2,7 @@
 
 * Launch the container
 ```
-docker run  -p 8080:8080 --rm -ti --privileged --name hdp -h hdp torusware/hdp-nonambari
+docker run  -p 8080:8080 --rm -ti --privileged --name hdp -h hdp torusware/hortondataplatform-nonambari
 ```
 
 * Access a running container
